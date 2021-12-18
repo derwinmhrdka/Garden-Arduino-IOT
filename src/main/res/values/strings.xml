@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KMMI IOT</string>
+    <string name="dashboardTitle">Garden Manager</string>
+    <string name="more">more</string>
+    <string name="card1Title">Data Real-time</string>
+    <string name="suhuTitle">Suhu</string>
+    <string name="t">32\u2103</string>
+    <string name="humTitle">Kelembapan</string>
+    <string name="h">69%</string>
+    <string name="fbTitle">Koneksi</string>
+    <string name="fbStat">connected</string>
+    <string name="acStat">ON/OFF</string>
+    <string name="acTitle">Pompa air</string>
+    <string name="ac_1">Taman depan</string>
+    <string name="acTitle2">Lampu</string>
+    <string name="ac2">Taman belakang</string>
+    <string name="acStat1">OFF</string>
+    <string name="acStat2">OFF</string>
+    <string name="acStat3">OFF</string>
+    <string name="soil_cd">Lembab</string>
+</resources>
